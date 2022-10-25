@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alexandr1899.github.io/goit-react-hw-04-feedback/static/css/main.079a326b.css",
+    "main.js": "/Alexandr1899.github.io/goit-react-hw-04-feedback/static/js/main.1e35ce7d.js",
+    "index.html": "/Alexandr1899.github.io/goit-react-hw-04-feedback/index.html",
+    "main.079a326b.css.map": "/Alexandr1899.github.io/goit-react-hw-04-feedback/static/css/main.079a326b.css.map",
+    "main.1e35ce7d.js.map": "/Alexandr1899.github.io/goit-react-hw-04-feedback/static/js/main.1e35ce7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.079a326b.css",
+    "static/js/main.1e35ce7d.js"
+  ]
+}
