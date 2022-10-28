@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Alexandr1899.github.io/goit-react-hw-04-feedback/static/css/main.079a326b.css",
-    "main.js": "/Alexandr1899.github.io/goit-react-hw-04-feedback/static/js/main.1e35ce7d.js",
-    "index.html": "/Alexandr1899.github.io/goit-react-hw-04-feedback/index.html",
-    "main.079a326b.css.map": "/Alexandr1899.github.io/goit-react-hw-04-feedback/static/css/main.079a326b.css.map",
-    "main.1e35ce7d.js.map": "/Alexandr1899.github.io/goit-react-hw-04-feedback/static/js/main.1e35ce7d.js.map"
+    "main.css": "/goit-react-hw-04-feedback/static/css/main.079a326b.css",
+    "main.js": "/goit-react-hw-04-feedback/static/js/main.5c0c3515.js",
+    "index.html": "/goit-react-hw-04-feedback/index.html",
+    "main.079a326b.css.map": "/goit-react-hw-04-feedback/static/css/main.079a326b.css.map",
+    "main.5c0c3515.js.map": "/goit-react-hw-04-feedback/static/js/main.5c0c3515.js.map"
   },
   "entrypoints": [
     "static/css/main.079a326b.css",
-    "static/js/main.1e35ce7d.js"
+    "static/js/main.5c0c3515.js"
   ]
 }
